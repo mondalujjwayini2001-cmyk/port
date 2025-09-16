@@ -36,6 +36,15 @@ cursor: pointer;
 color: rgb(81, 71, 71);   
 cursor: pointer;
 }
+.home{
+    text-transform: capitalize;
+}
+.skill{
+    text-transform: capitalize;
+}
+.project{
+    text-transform: capitalize;
+}
 .hero{
     height: 100%;
     width: 100%;
