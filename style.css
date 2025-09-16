@@ -24,7 +24,18 @@ background-color: rgb(240, 182, 106);
     gap: 40px;
     
 }
-
+.home:hover{
+color: rgb(81, 71, 71);   
+cursor: pointer; 
+}
+.skill:hover{
+color: rgb(81, 71, 71);   
+cursor: pointer;
+}
+.project:hover{
+color: rgb(81, 71, 71);   
+cursor: pointer;
+}
 .hero{
     height: 100%;
     width: 100%;
